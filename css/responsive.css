@@ -1,0 +1,91 @@
+@media screen and (max-width:992px){
+     .menubar-social-links{
+        display: none;
+    }
+    .scc-club-text{
+        max-width: 70%;
+    }
+    .scc-history-text{
+        max-width: 80%;
+    }
+    .years{
+        width: 60px;
+    }
+    .scc-uefa-history{
+        display: block;
+    }
+    /* .scc-uefa-video{
+        max-width: 1400px;
+        margin: 0px auto;
+    } */
+    .scc-uefa-content{
+        display: block;
+        margin-top: 32px;
+    }
+    .scc-achieve-text{
+        width: 60%;
+    }
+    .scc-player-info-cover{
+        display: block;
+    }
+    .scc-player-info{
+        min-width: 700px;
+    }
+    .recent-news{
+        display: none;
+    }
+}
+
+@media screen and (max-width:767px){
+    .board-members-cover{
+        display: block;
+    }
+
+    .board-member{
+        display: block;
+        margin: 12px auto;   
+    }
+    
+    .scc-achieve-winner-cover{
+        display: block;
+    }
+
+    .scc-club-text{
+        max-width: 40%;
+    }
+
+    .scc-player-text,
+    .scc-members-text{
+        max-width: 50%;
+    }
+
+    .scc-player-info{
+        min-width: 532px;
+    }
+
+
+    .scc-uefa-video{
+        width: 400px;
+    }
+
+    .recent-comments{
+        display: none;
+    }
+}
+
+@media screen and (max-width:576px){
+    .scc-uefa-video{
+        display: none;
+    }
+    .scc-club_h2, .scc-history-title, .scc-achieve-title, .scc-sponsors-title{
+        font-size: 24px;
+    }
+
+    .scc-player-info{
+        min-width: 320px;
+    }
+
+    .app-stores{
+        display: none;
+    }
+}
