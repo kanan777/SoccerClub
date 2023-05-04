@@ -1,5 +1,1 @@
-# SoccerClub
-[[redirects]]
-from = "/*"
-to = "/index.html"
-status = 200
+my second repo
